@@ -1,2 +1,2 @@
 # TextureParticles.Unity3D
-Creating animations for Unity3D from green screen video footage.
+Tool to create animations for Unity3D from green screen video footage.
